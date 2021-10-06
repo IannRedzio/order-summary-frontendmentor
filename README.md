@@ -2,7 +2,7 @@
 
 # My Result
 
-![Deploy](https://order-summary-frontendmentor-five.vercel.app/)
+[Deploy](https://order-summary-frontendmentor-five.vercel.app/)
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
